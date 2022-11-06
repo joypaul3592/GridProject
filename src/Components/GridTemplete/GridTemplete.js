@@ -1,6 +1,6 @@
 import React from 'react';
 import '../../App.css';
-import { Box, Button, ChakraProvider, Container, Grid, GridItem, Text } from '@chakra-ui/react';
+import { ChakraProvider, Container, Grid, GridItem } from '@chakra-ui/react';
 import { Image } from '@chakra-ui/react';
 import GridText from './GridText/GridText';
 
